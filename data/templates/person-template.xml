@@ -1,0 +1,12 @@
+<listPerson xmlns="http://www.tei-c.org/ns/1.0" xml:id="person-template">
+   <person>
+      <!-- repeatable for all name variants of a person in different languages -->
+      <persName xml:lang="" type="variant"/>
+
+      <!-- repeatable for all name of a person in the index in different languages -->
+      <persName xml:lang="" type="sort"/>
+
+      <!-- repeatable for all professions or roles of a person -->
+      <occupation/>
+   </person>
+</listPerson>
