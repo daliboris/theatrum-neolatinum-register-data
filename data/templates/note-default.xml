@@ -1,0 +1,8 @@
+<list xmlns="http://www.tei-c.org/ns/1.0" xml:id="note-default">
+    <item xml:id="note-NEW" source="">
+        <note>
+            <p xml:lang="cs">Výchozí text v češtině</p>
+            <p xml:lang="en">Initial text in English</p>
+        </note>
+    </item>
+</list>
