@@ -5,6 +5,7 @@
         <!-- not used in DraCor project -->
          <!-- @sex attribute used instead -->
         <!-- <gender value="U"/> -->
+        <idno type="GND"></idno>
         <birth>
            <date when=""/>
            <placeName ref=""/>

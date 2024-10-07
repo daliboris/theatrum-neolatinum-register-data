@@ -2,6 +2,7 @@
     <org xml:id="organization-NEW">
         <orgName type="main"/>
         <orgName type="sort"/>
+        <idno type="GND"></idno>
         <note/>
     </org>
 </orgList>

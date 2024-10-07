@@ -3,6 +3,7 @@
         <label type="main" />
         <gloss xml:lang="cs" />
         <gloss xml:lang="en" />
+        <idno type="GND"></idno>
         <note />
     </item>
 </list>

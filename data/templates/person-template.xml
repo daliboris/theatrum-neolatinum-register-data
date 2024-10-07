@@ -8,5 +8,8 @@
 
       <!-- repeatable for all professions or roles of a person -->
       <occupation/>
+
+      <!-- repeatable references to external authorities -->
+      <idno type="GND" />
    </person>
 </listPerson>
