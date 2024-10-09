@@ -11,4 +11,11 @@
    <prepare>pre-install.xql</prepare>
    <finish>post-install.xql</finish>
    <permissions user="tnl" group="tei" mode="rw-rw-r--"/>
+   <change version="0.2.0">
+      <ul xmlns="http://www.w3.org/1999/xhtml">
+          <li>default template for note</li>
+          <li>&lt;idno&gt; element in the default annotation elements</li>
+          <li>REST API for downloading collections (as a ZIP) and files</li>
+      </ul>
+  </change>
 </meta>
