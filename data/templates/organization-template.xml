@@ -1,5 +1,7 @@
 <orgList xmlns="http://www.tei-c.org/ns/1.0" xml:id="organization-template">
-    <org xml:id="">
+    <org>
         <orgName type="variant"/>
+        <!-- repeatable references to external authorities -->
+        <idno type="GND" />
     </org>
 </orgList>
