@@ -3,6 +3,11 @@
         <orgName type="main"/>
         <orgName type="sort"/>
         <idno type="GND"></idno>
-        <note/>
+        <note>
+            <p xml:lang="cs">Charakteristika v češtině</p>
+            <p xml:lang="cs"><ref target="https://cs.wikipedia.org/">Česká Wikipedie</ref></p>
+            <p xml:lang="en">Characteristics in English</p>
+            <p xml:lang="en"><ref target="https://en.wikipedia.org/">English Wikipedia</ref></p>
+           </note>
     </org>
 </orgList>
