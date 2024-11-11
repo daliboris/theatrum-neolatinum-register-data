@@ -11,6 +11,11 @@
    <prepare>pre-install.xql</prepare>
    <finish>post-install.xql</finish>
    <permissions user="tnl" group="tei" mode="rw-rw-r--"/>
+   <change version="0.3.0">
+    <ul xmlns="http://www.w3.org/1999/xhtml">
+        <li>removed &lt;idno&gt; from default records</li>
+    </ul>
+   </change>
    <change version="0.2.0">
       <ul xmlns="http://www.w3.org/1999/xhtml">
           <li>default template for note</li>
