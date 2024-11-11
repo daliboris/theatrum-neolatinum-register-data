@@ -2,7 +2,6 @@
     <org xml:id="organization-NEW">
         <orgName type="main"/>
         <orgName type="sort"/>
-        <idno type="GND"></idno>
         <note>
             <p xml:lang="cs">Charakteristika v češtině</p>
             <p xml:lang="cs"><ref target="https://cs.wikipedia.org/">Česká Wikipedie</ref></p>

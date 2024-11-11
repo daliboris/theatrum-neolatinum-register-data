@@ -3,10 +3,8 @@
         <label type="main" />
         <gloss xml:lang="cs" />
         <gloss xml:lang="en" />
-        <idno type="GND" />
         <note>
             <p xml:lang="cs"><ref target="https://cs.wikipedia.org/">Česká Wikipedie</ref></p>
-            <p xml:lang="en">Characteristics in English</p>
             <p xml:lang="en"><ref target="https://en.wikipedia.org/">English Wikipedia</ref></p>           
         </note>
     </item>
